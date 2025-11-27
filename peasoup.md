@@ -1,7 +1,7 @@
 # Ingredients 
 - spring onions 
 - potatoes
-- garlic
+- jarlic
 - fresh mint
 # Instructions
 - peas in pan make soup 
