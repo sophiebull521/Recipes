@@ -1,7 +1,8 @@
 # Ingredients 
 - peas
-- onions 
+- spring onions 
 - potatoes
 - garlic
+- mint
 # Instructions
 
