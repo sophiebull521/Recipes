@@ -3,6 +3,6 @@
 - spring onions 
 - potatoes
 - garlic
-- mint
+- fresh mint
 # Instructions
 
