@@ -1,5 +1,5 @@
 # Ingredients 
-- peas
+- garden peas
 - spring onions 
 - potatoes
 - garlic
